@@ -1,0 +1,13 @@
+* {
+background-color: darksalmon;    
+font-family: Arial, Helvetica, sans-serif
+}
+body {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+h1 {
+    color: rgb(250, 99, 124);
+    
+}
